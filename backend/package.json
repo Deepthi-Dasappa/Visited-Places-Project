@@ -1,0 +1,25 @@
+{
+  "name": "backend-code-for-learning-http-request-through-react-application",
+  "version": "1.0.0",
+  "description": "Backend-code-for-learning-http-request-through-react-application",
+  "main": "App.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "code",
+    "for",
+    "http",
+    "request",
+    "through",
+    "React",
+    "application"
+  ],
+  "author": "Deepthi Dasappa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
